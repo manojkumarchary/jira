@@ -1,0 +1,1 @@
+<p>EmailId    : dentalclinic@.hotmail.com <br>PhoneNo  : +91-9999966666<br> Address    : hyderabad&secundrabad</p>
